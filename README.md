@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-<!--
-**oriolbis/oriolbis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import SoftwareDeveloper from 'thompsonemerson';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper {
+  name     = 'Oriol Bisquert i Lopez';
+  title    = 'Baccalaureate student // MIT BCNSquad Member';
+  school  = 'Escola Virolai';
+  location = 'Barcelona, Spain';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['Python', 'C++', 'Html,Css'];
+  frameworks = ['Virtul Studio Code', 'GraphQL'];
+}
+```
+
