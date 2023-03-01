@@ -7,6 +7,7 @@ import engineer from 'Oriol Bisquert i Lopez';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Oriol Bisquert i Lopez';
+  info     = 'I have participated in many projects in collaboration with @mit and CIC';
   title    = 'Baccalaureate student // MIT BCNSquad Member';
   school  = 'Escola Virolai';
   location = 'Barcelona, Spain';
