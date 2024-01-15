@@ -9,7 +9,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'Oriol Bisquert i Lopez';
   info     = 'I have participated in many projects in collaboration with @mit and CIC';
   title    = 'Engineering student in audiovisual systems at La Salle // MIT BCNSquad Member';
-  school  = 'Escola Virolai';
+  school  = 'La Salle URL';
   location = 'Barcelona, Spain';
 }
 
